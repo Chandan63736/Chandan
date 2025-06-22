@@ -1,5 +1,4 @@
-
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/myimage.jpg" alt="Geology vibes" style="max-width: 100%; border-radius: 12px;">
+<iframe src="https://gifer.com/embed/AZml" width=480 height=396.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 # Chandan
 Config files for my GitHub profile.
